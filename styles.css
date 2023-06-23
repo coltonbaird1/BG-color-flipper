@@ -4,7 +4,6 @@ body {
   border: 0px;
   height: 100%;
   width: 100%;
-  /* display: flex; */
   font-family: 'Poppins', sans-serif;
 }
 
@@ -28,7 +27,6 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* background-color: black; */
 }
 
 button {
